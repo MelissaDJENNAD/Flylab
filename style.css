@@ -1,0 +1,96 @@
+.menu{
+    height: 14%;
+background-color: white;
+    z-index: 9999;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: block;
+}
+.grandEspace{
+    height: 100px;
+}
+.leLogo{
+    /*border: 1px solid black;*/
+    display: flex;
+}
+.logo{
+    width: 65px;
+    padding-top: 20px;
+}
+.nom{
+display: flex;
+}
+.nom p {
+    font-family: 'Days One', sans-serif;
+font-size: 4em;
+    letter-spacing: 20px;
+    color: black;
+
+}
+
+.leMenu{
+    /*border: 1px solid black;*/
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 30px 40px;
+    text-decoration: none;
+    color: black;
+
+}
+li a:hover {
+    color: goldenrod;
+
+}
+
+
+
+
+
+h2{
+    font-family: 'Days One', sans-serif;
+}
+
+.petitEspace{
+    height: 20px;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    /*background-color: beige;*/
+}
+
+
+.onMetPhoto{
+    /*height: 500px;*/
+    /*border: 1px solid black;*/
+
+
+}
+.fleche{
+   padding-top: 150px;
+    padding-left: 25px;
+
+}
+
+img.une{
+    width: 100%;
+    height: auto;
+}
